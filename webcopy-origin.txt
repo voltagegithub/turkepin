@@ -1,0 +1,36 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=fallback
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://pintere.net/
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\index.htm
+Content Type: text/html
+
+Uri: https://pintere.net/images/pintere-favicon.png
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\images\pintere-favicon.png
+Content Type: image/png
+
+Uri: https://pintere.net/images/pintere.png
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\images\pintere.png
+Content Type: image/png
+
+Uri: https://pintere.net/style.css
+File Name: C:\Downloaded Web Sites\turkoyun\turkepin\pintere.net\style.css
+Content Type: text/css
+
